@@ -2,7 +2,6 @@
 - 👀 I’m interested in the data driven predictions
 - 🌱 I’m currently learning full stack data science
 - 📫 You can reach me at amalvincent7@outlook.com
--
 
 <!---
 amalvincent7/amalvincent7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
